@@ -2,6 +2,6 @@
   "name": "Foie Gras Node",
   "website": "",
   "description": "Eigen Layer Operator Node",
-  "logo": "https://raw.githubusercontent.com/jobam/EigenNode/main/logo.png",
+  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
   "twitter": ""
 }
