@@ -1,7 +1,7 @@
 {
-  "name": "Foie Gras Node",
-  "website": "https://google.com",
+  "name": "Mentis Node",
+  "website": "",
   "description": "Eigen Layer Operator Node",
-  "logo": "https://raw.githubusercontent.com/Layr-Labs/eigenlayer-cli/master/pkg/operator/config/logo.png",
-  "twitter": "https://x.com/example"
+  "logo": "https://raw.githubusercontent.com/jobam/EigenNode/main/logo.png",
+  "twitter": ""
 }
